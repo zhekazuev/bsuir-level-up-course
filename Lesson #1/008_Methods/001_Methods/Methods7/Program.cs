@@ -9,13 +9,13 @@ namespace Methods
 {
     class Program
     {
-        static void Recursion(int counter)
+        static void Recursion(int counter)	
         {
-            counter--;
+            counter--;						
 
             Console.WriteLine("Первая половина метода: {0}", counter);
 
-            if (counter != 0)
+            if (counter != 0)				
                 Recursion(counter);
 
             Console.WriteLine("Вторая половина метода: {0}", counter);

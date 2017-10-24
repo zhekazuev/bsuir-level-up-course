@@ -19,3 +19,8 @@ F:\C# Starter\CS_Starter_RU\008_Methods\001_Methods\Methods7\obj\x86\Debug\Metho
 F:\C# Starter\CS_Starter_RU\008_Methods\001_Methods\Methods7\obj\x86\Debug\Methods9.pdb
 H:\C# Starter\CS_Starter_RU\008_Methods\001_Methods\Methods7\obj\x86\Debug\Methods9.exe
 H:\C# Starter\CS_Starter_RU\008_Methods\001_Methods\Methods7\obj\x86\Debug\Methods9.pdb
+D:\Programs\Workers\Level-Up\Level_Up_Bsuir\Lesson #1\008_Methods\001_Methods\Methods7\bin\Debug\Methods9.exe
+D:\Programs\Workers\Level-Up\Level_Up_Bsuir\Lesson #1\008_Methods\001_Methods\Methods7\bin\Debug\Methods9.pdb
+D:\Programs\Workers\Level-Up\Level_Up_Bsuir\Lesson #1\008_Methods\001_Methods\Methods7\obj\x86\Debug\007_Methods.csproj.CoreCompileInputs.cache
+D:\Programs\Workers\Level-Up\Level_Up_Bsuir\Lesson #1\008_Methods\001_Methods\Methods7\obj\x86\Debug\Methods9.exe
+D:\Programs\Workers\Level-Up\Level_Up_Bsuir\Lesson #1\008_Methods\001_Methods\Methods7\obj\x86\Debug\Methods9.pdb

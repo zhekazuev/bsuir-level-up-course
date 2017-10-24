@@ -20,3 +20,8 @@ F:\C# Starter\CS_Starter_RU\008_Methods\001_Methods\Methods9\bin\Debug\BinaryDig
 F:\C# Starter\CS_Starter_RU\008_Methods\001_Methods\Methods9\obj\x86\Debug\ResolveAssemblyReference.cache
 F:\C# Starter\CS_Starter_RU\008_Methods\001_Methods\Methods9\obj\x86\Debug\BinaryDigit.exe
 F:\C# Starter\CS_Starter_RU\008_Methods\001_Methods\Methods9\obj\x86\Debug\BinaryDigit.pdb
+D:\Programs\Workers\Level-Up\Level_Up_Bsuir\Lesson #1\008_Methods\001_Methods\Methods9\bin\Debug\BinaryDigit.exe
+D:\Programs\Workers\Level-Up\Level_Up_Bsuir\Lesson #1\008_Methods\001_Methods\Methods9\bin\Debug\BinaryDigit.pdb
+D:\Programs\Workers\Level-Up\Level_Up_Bsuir\Lesson #1\008_Methods\001_Methods\Methods9\obj\x86\Debug\009_BinaryDigit.csproj.CoreCompileInputs.cache
+D:\Programs\Workers\Level-Up\Level_Up_Bsuir\Lesson #1\008_Methods\001_Methods\Methods9\obj\x86\Debug\BinaryDigit.exe
+D:\Programs\Workers\Level-Up\Level_Up_Bsuir\Lesson #1\008_Methods\001_Methods\Methods9\obj\x86\Debug\BinaryDigit.pdb

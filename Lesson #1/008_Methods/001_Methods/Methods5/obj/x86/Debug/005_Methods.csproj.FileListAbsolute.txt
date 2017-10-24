@@ -17,3 +17,8 @@ F:\C# Starter\CS_Starter_RU\008_Methods\001_Methods\Methods5\bin\Debug\Methods21
 F:\C# Starter\CS_Starter_RU\008_Methods\001_Methods\Methods5\obj\x86\Debug\ResolveAssemblyReference.cache
 F:\C# Starter\CS_Starter_RU\008_Methods\001_Methods\Methods5\obj\x86\Debug\Methods21.exe
 F:\C# Starter\CS_Starter_RU\008_Methods\001_Methods\Methods5\obj\x86\Debug\Methods21.pdb
+D:\Programs\Workers\Level-Up\Level_Up_Bsuir\Lesson #1\008_Methods\001_Methods\Methods5\bin\Debug\Methods21.exe
+D:\Programs\Workers\Level-Up\Level_Up_Bsuir\Lesson #1\008_Methods\001_Methods\Methods5\bin\Debug\Methods21.pdb
+D:\Programs\Workers\Level-Up\Level_Up_Bsuir\Lesson #1\008_Methods\001_Methods\Methods5\obj\x86\Debug\005_Methods.csproj.CoreCompileInputs.cache
+D:\Programs\Workers\Level-Up\Level_Up_Bsuir\Lesson #1\008_Methods\001_Methods\Methods5\obj\x86\Debug\Methods21.exe
+D:\Programs\Workers\Level-Up\Level_Up_Bsuir\Lesson #1\008_Methods\001_Methods\Methods5\obj\x86\Debug\Methods21.pdb

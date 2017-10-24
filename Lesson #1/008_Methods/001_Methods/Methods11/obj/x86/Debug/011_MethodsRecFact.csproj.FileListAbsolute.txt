@@ -20,3 +20,8 @@ F:\C# Starter\CS_Starter_RU\008_Methods\001_Methods\Methods11\obj\x86\Debug\Meth
 F:\C# Starter\CS_Starter_RU\008_Methods\001_Methods\Methods11\bin\Debug\MethodsRecFact.exe
 F:\C# Starter\CS_Starter_RU\008_Methods\001_Methods\Methods11\bin\Debug\MethodsRecFact.pdb
 F:\C# Starter\CS_Starter_RU\008_Methods\001_Methods\Methods11\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\Programs\Workers\Level-Up\Level_Up_Bsuir\Lesson #1\008_Methods\001_Methods\Methods11\bin\Debug\MethodsRecFact.exe
+D:\Programs\Workers\Level-Up\Level_Up_Bsuir\Lesson #1\008_Methods\001_Methods\Methods11\bin\Debug\MethodsRecFact.pdb
+D:\Programs\Workers\Level-Up\Level_Up_Bsuir\Lesson #1\008_Methods\001_Methods\Methods11\obj\x86\Debug\011_MethodsRecFact.csproj.CoreCompileInputs.cache
+D:\Programs\Workers\Level-Up\Level_Up_Bsuir\Lesson #1\008_Methods\001_Methods\Methods11\obj\x86\Debug\MethodsRecFact.exe
+D:\Programs\Workers\Level-Up\Level_Up_Bsuir\Lesson #1\008_Methods\001_Methods\Methods11\obj\x86\Debug\MethodsRecFact.pdb

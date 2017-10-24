@@ -7,3 +7,8 @@ F:\C# Starter\CS_Starter_RU\008_Methods\001_Methods\Methods12\bin\Debug\Recursio
 F:\C# Starter\CS_Starter_RU\008_Methods\001_Methods\Methods12\obj\x86\Debug\ResolveAssemblyReference.cache
 F:\C# Starter\CS_Starter_RU\008_Methods\001_Methods\Methods12\obj\x86\Debug\Recursion3.exe
 F:\C# Starter\CS_Starter_RU\008_Methods\001_Methods\Methods12\obj\x86\Debug\Recursion3.pdb
+D:\Programs\Workers\Level-Up\Level_Up_Bsuir\Lesson #1\008_Methods\001_Methods\Methods12\bin\Debug\Recursion3.exe
+D:\Programs\Workers\Level-Up\Level_Up_Bsuir\Lesson #1\008_Methods\001_Methods\Methods12\bin\Debug\Recursion3.pdb
+D:\Programs\Workers\Level-Up\Level_Up_Bsuir\Lesson #1\008_Methods\001_Methods\Methods12\obj\x86\Debug\010_Recursion.csproj.CoreCompileInputs.cache
+D:\Programs\Workers\Level-Up\Level_Up_Bsuir\Lesson #1\008_Methods\001_Methods\Methods12\obj\x86\Debug\Recursion3.exe
+D:\Programs\Workers\Level-Up\Level_Up_Bsuir\Lesson #1\008_Methods\001_Methods\Methods12\obj\x86\Debug\Recursion3.pdb

@@ -7,3 +7,8 @@ F:\C# Starter\CS_Starter_RU\008_Methods\001_Methods\Methods2\bin\Debug\Methods12
 F:\C# Starter\CS_Starter_RU\008_Methods\001_Methods\Methods2\obj\x86\Debug\ResolveAssemblyReference.cache
 F:\C# Starter\CS_Starter_RU\008_Methods\001_Methods\Methods2\obj\x86\Debug\Methods12.exe
 F:\C# Starter\CS_Starter_RU\008_Methods\001_Methods\Methods2\obj\x86\Debug\Methods12.pdb
+D:\Programs\Workers\Level-Up\Level_Up_Bsuir\Lesson #1\008_Methods\001_Methods\Methods2\bin\Debug\Methods12.exe
+D:\Programs\Workers\Level-Up\Level_Up_Bsuir\Lesson #1\008_Methods\001_Methods\Methods2\bin\Debug\Methods12.pdb
+D:\Programs\Workers\Level-Up\Level_Up_Bsuir\Lesson #1\008_Methods\001_Methods\Methods2\obj\x86\Debug\003_Methods.csproj.CoreCompileInputs.cache
+D:\Programs\Workers\Level-Up\Level_Up_Bsuir\Lesson #1\008_Methods\001_Methods\Methods2\obj\x86\Debug\Methods12.exe
+D:\Programs\Workers\Level-Up\Level_Up_Bsuir\Lesson #1\008_Methods\001_Methods\Methods2\obj\x86\Debug\Methods12.pdb
