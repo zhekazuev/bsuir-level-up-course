@@ -17,12 +17,12 @@ namespace HomeWork_8_3
 {
 	class Program
 	{
-		static long March (int N)
+		static long Factorial (int N)
 		{
 			long Nfact = 1 ;
 			if(N!=0)
 			{
-				Nfact = N * March(N - 1);
+				Nfact = N * Factorial (N - 1);
 			}
 			return Nfact;
 		}
@@ -32,7 +32,7 @@ namespace HomeWork_8_3
 		{
 
 			
-			Console.WriteLine(March(3));
+			Console.WriteLine(Factorial(3));
 		}
 	}
 }
