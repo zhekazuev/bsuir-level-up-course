@@ -1,0 +1,10 @@
+d:\Programs\Workers\Level-Up\Csharp\Lesson #1\001_Intro\001_Intro\001_ConsoleApplication\ConsoleApplication\fff\bin\Debug\netcoreapp2.0\fff.deps.json
+d:\Programs\Workers\Level-Up\Csharp\Lesson #1\001_Intro\001_Intro\001_ConsoleApplication\ConsoleApplication\fff\bin\Debug\netcoreapp2.0\fff.runtimeconfig.json
+d:\Programs\Workers\Level-Up\Csharp\Lesson #1\001_Intro\001_Intro\001_ConsoleApplication\ConsoleApplication\fff\bin\Debug\netcoreapp2.0\fff.runtimeconfig.dev.json
+d:\Programs\Workers\Level-Up\Csharp\Lesson #1\001_Intro\001_Intro\001_ConsoleApplication\ConsoleApplication\fff\bin\Debug\netcoreapp2.0\fff.dll
+d:\Programs\Workers\Level-Up\Csharp\Lesson #1\001_Intro\001_Intro\001_ConsoleApplication\ConsoleApplication\fff\bin\Debug\netcoreapp2.0\fff.pdb
+d:\Programs\Workers\Level-Up\Csharp\Lesson #1\001_Intro\001_Intro\001_ConsoleApplication\ConsoleApplication\fff\obj\Debug\netcoreapp2.0\fff.csproj.CoreCompileInputs.cache
+d:\Programs\Workers\Level-Up\Csharp\Lesson #1\001_Intro\001_Intro\001_ConsoleApplication\ConsoleApplication\fff\obj\Debug\netcoreapp2.0\fff.AssemblyInfoInputs.cache
+d:\Programs\Workers\Level-Up\Csharp\Lesson #1\001_Intro\001_Intro\001_ConsoleApplication\ConsoleApplication\fff\obj\Debug\netcoreapp2.0\fff.AssemblyInfo.cs
+d:\Programs\Workers\Level-Up\Csharp\Lesson #1\001_Intro\001_Intro\001_ConsoleApplication\ConsoleApplication\fff\obj\Debug\netcoreapp2.0\fff.dll
+d:\Programs\Workers\Level-Up\Csharp\Lesson #1\001_Intro\001_Intro\001_ConsoleApplication\ConsoleApplication\fff\obj\Debug\netcoreapp2.0\fff.pdb

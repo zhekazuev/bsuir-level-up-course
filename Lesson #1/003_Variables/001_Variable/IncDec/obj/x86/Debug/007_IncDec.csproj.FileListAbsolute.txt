@@ -1,0 +1,12 @@
+F:\C# Starter\CS_Starter_RU\003_Variables\001_Variable\IncDec\bin\Debug\IncDec.exe
+F:\C# Starter\CS_Starter_RU\003_Variables\001_Variable\IncDec\bin\Debug\IncDec.pdb
+F:\C# Starter\CS_Starter_RU\003_Variables\001_Variable\IncDec\obj\x86\Debug\ResolveAssemblyReference.cache
+F:\C# Starter\CS_Starter_RU\003_Variables\001_Variable\IncDec\obj\x86\Debug\IncDec.exe
+F:\C# Starter\CS_Starter_RU\003_Variables\001_Variable\IncDec\obj\x86\Debug\IncDec.pdb
+D:\COURSES\CS\CS_Starter_RU\CS_Starter_RU\003_Variables\001_Variable\IncDec\obj\x86\Debug\IncDec.exe
+D:\COURSES\CS\CS_Starter_RU\CS_Starter_RU\003_Variables\001_Variable\IncDec\obj\x86\Debug\IncDec.pdb
+D:\Programs\Workers\Level-Up\Csharp\Lesson #1\003_Variables\001_Variable\IncDec\bin\Debug\IncDec.exe
+D:\Programs\Workers\Level-Up\Csharp\Lesson #1\003_Variables\001_Variable\IncDec\bin\Debug\IncDec.pdb
+D:\Programs\Workers\Level-Up\Csharp\Lesson #1\003_Variables\001_Variable\IncDec\obj\x86\Debug\007_IncDec.csproj.CoreCompileInputs.cache
+D:\Programs\Workers\Level-Up\Csharp\Lesson #1\003_Variables\001_Variable\IncDec\obj\x86\Debug\IncDec.exe
+D:\Programs\Workers\Level-Up\Csharp\Lesson #1\003_Variables\001_Variable\IncDec\obj\x86\Debug\IncDec.pdb

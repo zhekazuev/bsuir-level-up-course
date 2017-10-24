@@ -1,0 +1,7 @@
+D:\Programs\Workers\Level-Up\Csharp\Lesson #1\007_Methods\001_Methods\HomeWork_7_1\bin\Debug\HomeWork_7_1.exe.config
+D:\Programs\Workers\Level-Up\Csharp\Lesson #1\007_Methods\001_Methods\HomeWork_7_1\bin\Debug\HomeWork_7_1.exe
+D:\Programs\Workers\Level-Up\Csharp\Lesson #1\007_Methods\001_Methods\HomeWork_7_1\bin\Debug\HomeWork_7_1.pdb
+D:\Programs\Workers\Level-Up\Csharp\Lesson #1\007_Methods\001_Methods\HomeWork_7_1\obj\Debug\HomeWork_7_1.csprojResolveAssemblyReference.cache
+D:\Programs\Workers\Level-Up\Csharp\Lesson #1\007_Methods\001_Methods\HomeWork_7_1\obj\Debug\HomeWork_7_1.csproj.CoreCompileInputs.cache
+D:\Programs\Workers\Level-Up\Csharp\Lesson #1\007_Methods\001_Methods\HomeWork_7_1\obj\Debug\HomeWork_7_1.exe
+D:\Programs\Workers\Level-Up\Csharp\Lesson #1\007_Methods\001_Methods\HomeWork_7_1\obj\Debug\HomeWork_7_1.pdb

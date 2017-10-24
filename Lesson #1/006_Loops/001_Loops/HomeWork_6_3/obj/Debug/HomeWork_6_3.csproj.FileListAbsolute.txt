@@ -1,0 +1,6 @@
+D:\Programs\Workers\Level-Up\Csharp\Lesson #1\006_Loops\001_Loops\HomeWork_6_3\bin\Debug\HomeWork_6_3.exe.config
+D:\Programs\Workers\Level-Up\Csharp\Lesson #1\006_Loops\001_Loops\HomeWork_6_3\bin\Debug\HomeWork_6_3.exe
+D:\Programs\Workers\Level-Up\Csharp\Lesson #1\006_Loops\001_Loops\HomeWork_6_3\bin\Debug\HomeWork_6_3.pdb
+D:\Programs\Workers\Level-Up\Csharp\Lesson #1\006_Loops\001_Loops\HomeWork_6_3\obj\Debug\HomeWork_6_3.csproj.CoreCompileInputs.cache
+D:\Programs\Workers\Level-Up\Csharp\Lesson #1\006_Loops\001_Loops\HomeWork_6_3\obj\Debug\HomeWork_6_3.exe
+D:\Programs\Workers\Level-Up\Csharp\Lesson #1\006_Loops\001_Loops\HomeWork_6_3\obj\Debug\HomeWork_6_3.pdb

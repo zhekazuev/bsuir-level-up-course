@@ -1,0 +1,6 @@
+D:\Programs\Workers\Level-Up\Csharp\Lesson #1\002_Machine_Mathematics\001_Variables\Example_2_1\obj\Debug\HomeWork_2_1.csproj.CoreCompileInputs.cache
+D:\Programs\Workers\Level-Up\Csharp\Lesson #1\002_Machine_Mathematics\001_Variables\Example_2_1\bin\Debug\Example_2_1.exe.config
+D:\Programs\Workers\Level-Up\Csharp\Lesson #1\002_Machine_Mathematics\001_Variables\Example_2_1\bin\Debug\Example_2_1.exe
+D:\Programs\Workers\Level-Up\Csharp\Lesson #1\002_Machine_Mathematics\001_Variables\Example_2_1\bin\Debug\Example_2_1.pdb
+D:\Programs\Workers\Level-Up\Csharp\Lesson #1\002_Machine_Mathematics\001_Variables\Example_2_1\obj\Debug\Example_2_1.exe
+D:\Programs\Workers\Level-Up\Csharp\Lesson #1\002_Machine_Mathematics\001_Variables\Example_2_1\obj\Debug\Example_2_1.pdb

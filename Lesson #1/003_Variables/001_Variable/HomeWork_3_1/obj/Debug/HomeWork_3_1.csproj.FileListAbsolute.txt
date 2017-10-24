@@ -1,0 +1,6 @@
+D:\Programs\Workers\Level-Up\Csharp\Lesson #1\003_Variables\001_Variable\HomeWork_3_1\bin\Debug\HomeWork_3_1.exe.config
+D:\Programs\Workers\Level-Up\Csharp\Lesson #1\003_Variables\001_Variable\HomeWork_3_1\bin\Debug\HomeWork_3_1.exe
+D:\Programs\Workers\Level-Up\Csharp\Lesson #1\003_Variables\001_Variable\HomeWork_3_1\bin\Debug\HomeWork_3_1.pdb
+D:\Programs\Workers\Level-Up\Csharp\Lesson #1\003_Variables\001_Variable\HomeWork_3_1\obj\Debug\HomeWork_3_1.csproj.CoreCompileInputs.cache
+D:\Programs\Workers\Level-Up\Csharp\Lesson #1\003_Variables\001_Variable\HomeWork_3_1\obj\Debug\HomeWork_3_1.exe
+D:\Programs\Workers\Level-Up\Csharp\Lesson #1\003_Variables\001_Variable\HomeWork_3_1\obj\Debug\HomeWork_3_1.pdb

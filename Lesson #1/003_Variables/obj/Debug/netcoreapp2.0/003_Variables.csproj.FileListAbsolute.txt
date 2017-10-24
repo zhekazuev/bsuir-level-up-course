@@ -1,0 +1,3 @@
+D:\Programs\Workers\Level-Up\Csharp\Lesson #1\003_Variables\obj\Debug\netcoreapp2.0\003_Variables.csproj.CoreCompileInputs.cache
+D:\Programs\Workers\Level-Up\Csharp\Lesson #1\003_Variables\obj\Debug\netcoreapp2.0\003_Variables.AssemblyInfoInputs.cache
+D:\Programs\Workers\Level-Up\Csharp\Lesson #1\003_Variables\obj\Debug\netcoreapp2.0\003_Variables.AssemblyInfo.cs

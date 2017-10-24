@@ -1,0 +1,7 @@
+D:\Programs\Workers\Level-Up\Csharp\Lesson #1\004_Conditions\001_Conditions\HomeWork_4_2\obj\Debug\HomeWork_4_2.csprojResolveAssemblyReference.cache
+D:\Programs\Workers\Level-Up\Csharp\Lesson #1\004_Conditions\001_Conditions\HomeWork_4_2\obj\Debug\HomeWork_4_2.csproj.CoreCompileInputs.cache
+D:\Programs\Workers\Level-Up\Csharp\Lesson #1\004_Conditions\001_Conditions\HomeWork_4_2\bin\Debug\HomeWork_4_2.exe.config
+D:\Programs\Workers\Level-Up\Csharp\Lesson #1\004_Conditions\001_Conditions\HomeWork_4_2\bin\Debug\HomeWork_4_2.exe
+D:\Programs\Workers\Level-Up\Csharp\Lesson #1\004_Conditions\001_Conditions\HomeWork_4_2\bin\Debug\HomeWork_4_2.pdb
+D:\Programs\Workers\Level-Up\Csharp\Lesson #1\004_Conditions\001_Conditions\HomeWork_4_2\obj\Debug\HomeWork_4_2.exe
+D:\Programs\Workers\Level-Up\Csharp\Lesson #1\004_Conditions\001_Conditions\HomeWork_4_2\obj\Debug\HomeWork_4_2.pdb

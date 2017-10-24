@@ -1,0 +1,14 @@
+F:\C# Starter\CS_Starter_RU\003_Variables\001_Variable\Checked\bin\Debug\Checked.exe
+F:\C# Starter\CS_Starter_RU\003_Variables\001_Variable\Checked\bin\Debug\Checked.pdb
+F:\C# Starter\CS_Starter_RU\003_Variables\001_Variable\Checked\obj\x86\Debug\ResolveAssemblyReference.cache
+F:\C# Starter\CS_Starter_RU\003_Variables\001_Variable\Checked\obj\x86\Debug\Checked.exe
+F:\C# Starter\CS_Starter_RU\003_Variables\001_Variable\Checked\obj\x86\Debug\Checked.pdb
+D:\COURSES\CS\CS_Starter_RU\CS_Starter_RU\003_Variables\001_Variable\Checked\obj\x86\Debug\Checked.exe
+D:\COURSES\CS\CS_Starter_RU\CS_Starter_RU\003_Variables\001_Variable\Checked\obj\x86\Debug\Checked.pdb
+D:\COURSES\CS\CS_Starter_RU\CS_Starter_RU\003_Variables\001_Variable\Checked\bin\Debug\Checked.exe
+D:\COURSES\CS\CS_Starter_RU\CS_Starter_RU\003_Variables\001_Variable\Checked\bin\Debug\Checked.pdb
+D:\Programs\Workers\Level-Up\Csharp\Lesson #1\003_Variables\001_Variable\Checked\bin\Debug\Checked.exe
+D:\Programs\Workers\Level-Up\Csharp\Lesson #1\003_Variables\001_Variable\Checked\bin\Debug\Checked.pdb
+D:\Programs\Workers\Level-Up\Csharp\Lesson #1\003_Variables\001_Variable\Checked\obj\x86\Debug\011_Checked.csproj.CoreCompileInputs.cache
+D:\Programs\Workers\Level-Up\Csharp\Lesson #1\003_Variables\001_Variable\Checked\obj\x86\Debug\Checked.exe
+D:\Programs\Workers\Level-Up\Csharp\Lesson #1\003_Variables\001_Variable\Checked\obj\x86\Debug\Checked.pdb
