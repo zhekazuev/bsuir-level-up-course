@@ -15,3 +15,8 @@ d:\-=!!!InWork!!!=-\Lessons\C# Starter\Lessons\009_Arrays\001_Arrays\Arrays8\obj
 d:\-=!!!InWork!!!=-\Lessons\C# Starter\Lessons\009_Arrays\001_Arrays\Arrays8\bin\Debug\Arrays8.exe
 d:\-=!!!InWork!!!=-\Lessons\C# Starter\Lessons\009_Arrays\001_Arrays\Arrays8\bin\Debug\Arrays8.pdb
 d:\-=!!!InWork!!!=-\Lessons\C# Starter\Lessons\009_Arrays\001_Arrays\Arrays8\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\Programs\Workers\Level-Up\Level_Up_Bsuir\Lesson #1\009_Arrays\001_Arrays\Arrays8\bin\Debug\Arrays8.exe
+D:\Programs\Workers\Level-Up\Level_Up_Bsuir\Lesson #1\009_Arrays\001_Arrays\Arrays8\bin\Debug\Arrays8.pdb
+D:\Programs\Workers\Level-Up\Level_Up_Bsuir\Lesson #1\009_Arrays\001_Arrays\Arrays8\obj\x86\Debug\008_TwoDimensional.csproj.CoreCompileInputs.cache
+D:\Programs\Workers\Level-Up\Level_Up_Bsuir\Lesson #1\009_Arrays\001_Arrays\Arrays8\obj\x86\Debug\Arrays8.exe
+D:\Programs\Workers\Level-Up\Level_Up_Bsuir\Lesson #1\009_Arrays\001_Arrays\Arrays8\obj\x86\Debug\Arrays8.pdb

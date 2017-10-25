@@ -15,3 +15,9 @@ d:\-=!!!InWork!!!=-\Lessons\C# Starter\Lessons\009_Arrays\001_Arrays\Arrays2\obj
 d:\-=!!!InWork!!!=-\Lessons\C# Starter\Lessons\009_Arrays\001_Arrays\Arrays2\bin\Debug\Arrays2.exe
 d:\-=!!!InWork!!!=-\Lessons\C# Starter\Lessons\009_Arrays\001_Arrays\Arrays2\bin\Debug\Arrays2.pdb
 d:\-=!!!InWork!!!=-\Lessons\C# Starter\Lessons\009_Arrays\001_Arrays\Arrays2\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\Programs\Workers\Level-Up\Level_Up_Bsuir\Lesson #1\009_Arrays\001_Arrays\Arrays2\bin\Debug\Arrays2.exe
+D:\Programs\Workers\Level-Up\Level_Up_Bsuir\Lesson #1\009_Arrays\001_Arrays\Arrays2\bin\Debug\Arrays2.pdb
+D:\Programs\Workers\Level-Up\Level_Up_Bsuir\Lesson #1\009_Arrays\001_Arrays\Arrays2\obj\x86\Debug\002_Arrays.csprojResolveAssemblyReference.cache
+D:\Programs\Workers\Level-Up\Level_Up_Bsuir\Lesson #1\009_Arrays\001_Arrays\Arrays2\obj\x86\Debug\002_Arrays.csproj.CoreCompileInputs.cache
+D:\Programs\Workers\Level-Up\Level_Up_Bsuir\Lesson #1\009_Arrays\001_Arrays\Arrays2\obj\x86\Debug\Arrays2.exe
+D:\Programs\Workers\Level-Up\Level_Up_Bsuir\Lesson #1\009_Arrays\001_Arrays\Arrays2\obj\x86\Debug\Arrays2.pdb

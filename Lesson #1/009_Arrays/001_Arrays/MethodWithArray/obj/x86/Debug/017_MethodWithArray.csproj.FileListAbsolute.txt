@@ -5,3 +5,8 @@ D:\-=!!!InWork!!!=-\Lessons\C# Starter\Lessons\009_Arrays\001_Arrays\MethodWithA
 D:\-=!!!InWork!!!=-\Lessons\C# Starter\Lessons\009_Arrays\001_Arrays\MethodWithArray\obj\x86\Debug\MethodWithArray.pdb
 F:\C# Starter\CS_Starter_RU\009_Arrays\001_Arrays\MethodWithArray\obj\x86\Debug\MethodWithArray.exe
 F:\C# Starter\CS_Starter_RU\009_Arrays\001_Arrays\MethodWithArray\obj\x86\Debug\MethodWithArray.pdb
+D:\Programs\Workers\Level-Up\Level_Up_Bsuir\Lesson #1\009_Arrays\001_Arrays\MethodWithArray\bin\Debug\MethodWithArray.exe
+D:\Programs\Workers\Level-Up\Level_Up_Bsuir\Lesson #1\009_Arrays\001_Arrays\MethodWithArray\bin\Debug\MethodWithArray.pdb
+D:\Programs\Workers\Level-Up\Level_Up_Bsuir\Lesson #1\009_Arrays\001_Arrays\MethodWithArray\obj\x86\Debug\017_MethodWithArray.csproj.CoreCompileInputs.cache
+D:\Programs\Workers\Level-Up\Level_Up_Bsuir\Lesson #1\009_Arrays\001_Arrays\MethodWithArray\obj\x86\Debug\MethodWithArray.exe
+D:\Programs\Workers\Level-Up\Level_Up_Bsuir\Lesson #1\009_Arrays\001_Arrays\MethodWithArray\obj\x86\Debug\MethodWithArray.pdb

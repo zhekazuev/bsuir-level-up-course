@@ -15,3 +15,8 @@ d:\-=!!!InWork!!!=-\Lessons\C# Starter\Lessons\009_Arrays\001_Arrays\Arrays6\obj
 d:\-=!!!InWork!!!=-\Lessons\C# Starter\Lessons\009_Arrays\001_Arrays\Arrays6\bin\Debug\Arrays6.exe
 d:\-=!!!InWork!!!=-\Lessons\C# Starter\Lessons\009_Arrays\001_Arrays\Arrays6\bin\Debug\Arrays6.pdb
 d:\-=!!!InWork!!!=-\Lessons\C# Starter\Lessons\009_Arrays\001_Arrays\Arrays6\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\Programs\Workers\Level-Up\Level_Up_Bsuir\Lesson #1\009_Arrays\001_Arrays\Arrays6\bin\Debug\Arrays6.exe
+D:\Programs\Workers\Level-Up\Level_Up_Bsuir\Lesson #1\009_Arrays\001_Arrays\Arrays6\bin\Debug\Arrays6.pdb
+D:\Programs\Workers\Level-Up\Level_Up_Bsuir\Lesson #1\009_Arrays\001_Arrays\Arrays6\obj\x86\Debug\006_Arrays.csproj.CoreCompileInputs.cache
+D:\Programs\Workers\Level-Up\Level_Up_Bsuir\Lesson #1\009_Arrays\001_Arrays\Arrays6\obj\x86\Debug\Arrays6.exe
+D:\Programs\Workers\Level-Up\Level_Up_Bsuir\Lesson #1\009_Arrays\001_Arrays\Arrays6\obj\x86\Debug\Arrays6.pdb
