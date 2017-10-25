@@ -8,3 +8,8 @@ D:\COURSES\CS\CS_Starter_RU\HomeWork Answers\Lessons 9\Task 3\obj\x86\Debug\Task
 D:\COURSES\CS\CS_Starter_RU\HomeWork Answers\Lessons 9\Task 3\obj\x86\Debug\ResolveAssemblyReference.cache
 D:\COURSES\CS\CS_Starter_RU\HomeWork Answers\Lessons 9\Task 3\bin\Debug\Task 3.exe
 D:\COURSES\CS\CS_Starter_RU\HomeWork Answers\Lessons 9\Task 3\bin\Debug\Task 3.pdb
+D:\Programs\Workers\Level-Up\Level_Up_Bsuir\Lesson #1\HomeWork Answers\Lesson 9\Task 3\bin\Debug\Task 3.exe
+D:\Programs\Workers\Level-Up\Level_Up_Bsuir\Lesson #1\HomeWork Answers\Lesson 9\Task 3\bin\Debug\Task 3.pdb
+D:\Programs\Workers\Level-Up\Level_Up_Bsuir\Lesson #1\HomeWork Answers\Lesson 9\Task 3\obj\x86\Debug\Task 3.csproj.CoreCompileInputs.cache
+D:\Programs\Workers\Level-Up\Level_Up_Bsuir\Lesson #1\HomeWork Answers\Lesson 9\Task 3\obj\x86\Debug\Task 3.exe
+D:\Programs\Workers\Level-Up\Level_Up_Bsuir\Lesson #1\HomeWork Answers\Lesson 9\Task 3\obj\x86\Debug\Task 3.pdb

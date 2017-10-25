@@ -15,3 +15,9 @@ D:\COURSES\CS\CS_Starter_RU\HomeWork Answers\Lessons 9\Addition task\bin\Debug\A
 D:\COURSES\CS\CS_Starter_RU\HomeWork Answers\Lessons 9\Addition task\obj\x86\Debug\ResolveAssemblyReference.cache
 C:\Users\Alex CBS\Desktop\HomeWork Answers\Lessons 9 _доделать\Addition task\obj\x86\Debug\Addition task.exe
 C:\Users\Alex CBS\Desktop\HomeWork Answers\Lessons 9 _доделать\Addition task\obj\x86\Debug\Addition task.pdb
+D:\Programs\Workers\Level-Up\Level_Up_Bsuir\Lesson #1\HomeWork Answers\Lesson 9\Addition task\bin\Debug\Addition task.exe
+D:\Programs\Workers\Level-Up\Level_Up_Bsuir\Lesson #1\HomeWork Answers\Lesson 9\Addition task\bin\Debug\Addition task.pdb
+D:\Programs\Workers\Level-Up\Level_Up_Bsuir\Lesson #1\HomeWork Answers\Lesson 9\Addition task\obj\x86\Debug\Addition task.csprojResolveAssemblyReference.cache
+D:\Programs\Workers\Level-Up\Level_Up_Bsuir\Lesson #1\HomeWork Answers\Lesson 9\Addition task\obj\x86\Debug\Addition task.csproj.CoreCompileInputs.cache
+D:\Programs\Workers\Level-Up\Level_Up_Bsuir\Lesson #1\HomeWork Answers\Lesson 9\Addition task\obj\x86\Debug\Addition task.exe
+D:\Programs\Workers\Level-Up\Level_Up_Bsuir\Lesson #1\HomeWork Answers\Lesson 9\Addition task\obj\x86\Debug\Addition task.pdb
