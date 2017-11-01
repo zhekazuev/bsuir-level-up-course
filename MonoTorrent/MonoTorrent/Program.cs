@@ -10,8 +10,15 @@ namespace MonoTorrent
 {
 	class Program
 	{
+		
 		static void Main(string[] args)
 		{
+			
+			Torrent torrent = Torrent.Load(torrentFilePath);//Для получения информации о torrent-файле и последующей его загрузки
+			TorrentManager manager = new TorrentManager(torrent, downloadFolderPath, new TorrentSettings());//для управления одним торрентом 
+			ClientEngine engine = new ClientEngine(new EngineSettings());//необходимый для осуществления контроля и управления за всеми торрентами и клиента в общем
+			engine.Register(manager);//отслеживание движком нашего менеджера
+			manager.Start();//для начала загрузки файлов
 		}
 	}
 }

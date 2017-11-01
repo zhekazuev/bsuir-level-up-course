@@ -40,3 +40,9 @@ E:\proga\video lessons\c#\[ITVDN] C# Базовый - 2016\C# Essential Student\
 E:\proga\video lessons\c#\[ITVDN] C# Базовый - 2016\C# Essential Student\001_Classes\001_Classes\Classes8\obj\x86\Debug\008_Constructors.csproj.CoreCompileInputs.cache
 E:\proga\video lessons\c#\[ITVDN] C# Базовый - 2016\C# Essential Student\001_Classes\001_Classes\Classes8\obj\x86\Debug\Classes8.exe
 E:\proga\video lessons\c#\[ITVDN] C# Базовый - 2016\C# Essential Student\001_Classes\001_Classes\Classes8\obj\x86\Debug\Classes8.pdb
+D:\Programs\Workers\Level-Up\Level_Up_Bsuir\Lesson #2\001_Classes\001_Classes\Classes8\bin\Debug\Classes8.exe
+D:\Programs\Workers\Level-Up\Level_Up_Bsuir\Lesson #2\001_Classes\001_Classes\Classes8\bin\Debug\Classes8.pdb
+D:\Programs\Workers\Level-Up\Level_Up_Bsuir\Lesson #2\001_Classes\001_Classes\Classes8\obj\x86\Debug\008_Constructors.csprojResolveAssemblyReference.cache
+D:\Programs\Workers\Level-Up\Level_Up_Bsuir\Lesson #2\001_Classes\001_Classes\Classes8\obj\x86\Debug\008_Constructors.csproj.CoreCompileInputs.cache
+D:\Programs\Workers\Level-Up\Level_Up_Bsuir\Lesson #2\001_Classes\001_Classes\Classes8\obj\x86\Debug\Classes8.exe
+D:\Programs\Workers\Level-Up\Level_Up_Bsuir\Lesson #2\001_Classes\001_Classes\Classes8\obj\x86\Debug\Classes8.pdb
