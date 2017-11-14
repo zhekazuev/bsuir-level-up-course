@@ -18,7 +18,7 @@ namespace HomeWork_1_3
 		public Point[] Init(int n)
 		{
 			Point[] points = new Point[n];
-			for (int i = 0; i < n; i++)
+			for (int i = 0; i < points.Length; i++)
 			{
 				points[i] = new Point();
 				Console.WriteLine("Введите {0}-ое значение X", i + 1);
@@ -29,24 +29,19 @@ namespace HomeWork_1_3
 			return points;
 		}
 
-		public double Perimeter(int n, Point[] points)
+		
+		public double Perimeter(Point[] points)
 		{
-			double perimeter = 0.0;
-			for (int i = 0; i < n; i++)
+			double perimetr = 0.0;
+			for (int i = 0; i < points.Length-1; i++)
 			{
+				perimetr += Math.Sqrt(Math.Pow((points[i].X - points[i++].X), 2) + Math.Pow((points[i].Y - points[i++].Y), 2));
 				// Условие, нужное чтобы сложить периметр.Например для 3-точек:
 				// AB+BC+CA   CA - ?
 				//CA - это корень квадратный из суммы квадратов первой и последней точек.
-				if (i == n)
-				{
-					perimeter += Math.Sqrt(Math.Pow((points[0].X - points[n].X), 2) + Math.Pow((points[0].Y - points[n].Y), 2));
-				}
-				else
-				{
-					perimeter += Math.Sqrt(Math.Pow((points[i].X - points[i++].X), 2) + Math.Pow((points[i].Y - points[i++].Y), 2));
-				}
 			}
-			return perimeter;
+			perimetr +=  Math.Sqrt(Math.Pow((points[0].X - points[points.Length-1].X), 2) + Math.Pow((points[0].Y - points[points.Length-1].Y), 2));
+			return perimetr;
 		}
 	}
 }

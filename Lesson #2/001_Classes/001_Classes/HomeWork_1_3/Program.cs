@@ -23,7 +23,7 @@ namespace HomeWork_1_3
 			Console.WriteLine("Количество точек в фигуре = {0}", k);
 
 			// Вывод значения перимтра из поля из класса Figure
-			Console.WriteLine("Периметр = {0}", figure.Perimeter(k, figure.Init(k)));
+			Console.WriteLine("Периметр = {0}", figure.Perimeter(figure.Init(k)));
 		}
 	}
 }
