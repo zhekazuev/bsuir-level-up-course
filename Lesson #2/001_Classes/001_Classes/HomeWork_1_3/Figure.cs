@@ -8,26 +8,52 @@ using System.Threading.Tasks;
 //Создать два метода: double LengthSide(Point A, Point B), который рассчитывает длину стороны многоугольника;
 //void PerimeterCalculator(), который рассчитывает периметр многоугольника.
 
-namespace HomeWork_1_3
+namespace HomeWork_1_3_primer
 {
 	class Figure
 	{
-		public Figure(Point point_1, Point point_2, Point point_3,Point point_4,Point point_5)
+		int number;
+		Point[] points;
+		string name;
+		public string Name
 		{
-			
+			get
+			{
+				return name;
+			}
+			set
+			{
+				name = value;
+			}
 		}
-
-		public double LengthSide(Point A, Point B)	//метод расчета длины стороны 
+		public void InitializeFigure()
 		{
-			double Adouble = Convert.ToDouble(A);
-			double Bdouble = Convert.ToDouble(B);
-			double lengthside = Bdouble-Adouble;
-			return lengthside;
+			Console.WriteLine("enter number of verticles of your figure");
+			number = int.Parse(Console.ReadLine());
+			points = new Point[number];
+			for (int i = 0; i < points.Length; i++)
+			{
+				points[i] = new Point();
+			}
+
 		}
-
-		public void PerimeterCalculator()			//расчет периметра
+		public double LengthSide(Point a, Point b)
 		{
-			double Perimeter = 0 ;
+			return Math.Sqrt(Math.Pow(a.X - b.X, 2) + Math.Pow(a.Y - b.Y, 2));
+		}
+		public double CalculatePerimeter()
+		{
+			double perimeter = 0;
+			for (int i = 1; i < points.Length; i++)
+			{
+				perimeter += this.LengthSide(points[i - 1], points[i]);
+			}
+			perimeter += this.LengthSide(points[0], points[points.Length - 1]);
+			return perimeter;
+		}
+		public Figure(string name)
+		{
+			InitializeFigure();
 		}
 	}
 }

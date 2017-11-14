@@ -41,11 +41,11 @@ namespace HomeWork_1_1
 		{
 			get { return AreaCalculator(); }
 		}
-
 		public double Perimeter
 		{
 			get { return PerimeterCalculator(); }
 		}
+
 	}
 
 	class Program
@@ -66,7 +66,7 @@ namespace HomeWork_1_1
 			Console.WriteLine(new string('-', 30));
 			Console.WriteLine("Perimeter = {0}", rectangle.Perimeter);
 
-
+			 Console.ReadKey();
 		}
 	}
 }

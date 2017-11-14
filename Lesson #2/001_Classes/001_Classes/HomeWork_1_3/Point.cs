@@ -8,34 +8,43 @@ using System.Threading.Tasks;
 //Создать три свойства с одним методом доступа get.  
 //Создать пользовательский конструктор, в теле которого проинициализируйте поля значениями аргументов.
 
-namespace HomeWork_1_3
+namespace HomeWork_1_3_primer
 {
 	class Point
 	{
-		private int pointfield_1;		//поля
-		private int pointfield_2;		//поля
-		private string pointfield_3;	//поля
-
-		public int Point_1       //свойство 1
+		string name;
+		int x, y;
+		public int X
 		{
-			get { return pointfield_1; }
+			get
+			{
+				return x;
+			}
 		}
-
-		public int Point_2       //свойство 2
+		public int Y
 		{
-			get { return pointfield_2; }
+			get
+			{
+				return y;
+			}
 		}
-
-		public string Point_3       //свойство 3
+		public string Name
 		{
-			get { return pointfield_3; }
+			get
+			{
+				return name;
+			}
 		}
-
-		public Point(int point_1,int point_2,string point_3) //пользовательский конструктор, в теле которого инициализируются поля значениями аргументов.
+		public Point()
+			: this("", 0, 0) { }
+		public Point(string name, int x, int y)
 		{
-			this.pointfield_1 = point_1;
-			this.pointfield_2 = point_2;
-			this.pointfield_3 = point_3;
+			Console.WriteLine("Enter a letter of Point:");
+			this.name = Console.ReadLine();
+			Console.WriteLine("Enter X:");
+			this.x = int.Parse(Console.ReadLine());
+			Console.WriteLine("Enter Y:");
+			this.y = int.Parse(Console.ReadLine());
 		}
 	}
 }
