@@ -21,9 +21,9 @@ namespace HomeWork_1_3
 			for (int i = 0; i < n; i++)
 			{
 				points[i] = new Point();
-				Console.WriteLine("Введите {0}-ое значение X", i);
+				Console.WriteLine("Введите {0}-ое значение X", i++);
 				points[i].X = Convert.ToInt32(Console.ReadLine());
-				Console.WriteLine("Введите {0}-ое значение Y", i);
+				Console.WriteLine("Введите {0}-ое значение Y", i++);
 				points[i].Y = Convert.ToInt32(Console.ReadLine());
 			}
 			return points;
