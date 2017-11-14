@@ -12,7 +12,22 @@ namespace HomeWork_1_3
 {
 	class Point
 	{
-		public int X;
-		public int Y;
+		private int X;
+		private int Y;
+
+		public Point(int X,int Y)
+		{
+			this.X = X;
+			this.Y = Y;
+		}
+
+		public int GetX
+		{
+			get { return this.X; }
+		}
+		public int GetY
+		{
+			get { return this.Y; }
+		}
 	}
 }
