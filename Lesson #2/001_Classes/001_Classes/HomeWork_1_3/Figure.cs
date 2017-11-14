@@ -12,24 +12,24 @@ namespace HomeWork_1_3
 {
 	class Figure
 	{
-		
+
 		Point point = new Point();
-		
+
 		public Point[] Init(int n)
 		{
 			Point[] points = new Point[n];
 			for (int i = 0; i < n; i++)
 			{
 				points[i] = new Point();
-				Console.WriteLine("Введите {0}-ое значение X", i+1);
+				Console.WriteLine("Введите {0}-ое значение X", i + 1);
 				points[i].X = Convert.ToInt32(Console.ReadLine());
-				Console.WriteLine("Введите {0}-ое значение Y", i+1);
+				Console.WriteLine("Введите {0}-ое значение Y", i + 1);
 				points[i].Y = Convert.ToInt32(Console.ReadLine());
 			}
 			return points;
 		}
-				
-		public double Perimeter(int n,Point[] points)
+
+		public double Perimeter(int n, Point[] points)
 		{
 			double perimeter = 0.0;
 			for (int i = 0; i < n; i++)
@@ -39,7 +39,7 @@ namespace HomeWork_1_3
 				//CA - это корень квадратный из суммы квадратов первой и последней точек.
 				if (i == n)
 				{
-					perimeter += Math.Sqrt(Math.Pow((points[0].X - points[0].X),2) + Math.Pow((points[n].Y - points[n].Y),2));
+					perimeter += Math.Sqrt(Math.Pow((points[0].X - points[n].X), 2) + Math.Pow((points[0].Y - points[n].Y), 2));
 				}
 				else
 				{
