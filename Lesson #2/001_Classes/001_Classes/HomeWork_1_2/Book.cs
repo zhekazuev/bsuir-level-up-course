@@ -22,11 +22,11 @@ namespace HomeWork_1_2
 
 			public string SetTitle(string Title)
 			{
-				return this.TitleField = Title;
+				return this.TitleField = Title; 
 			}
-			public string GetTitle
+			public string GetTitle(string Title)
 			{
-				get { return TitleField; }
+				return TitleField;
 			}
 
 		}
@@ -46,9 +46,9 @@ namespace HomeWork_1_2
 			{
 				return this.AuthorField = Author;
 			}
-			public string GetAuthor
+			public string GetAuthor(string Author)
 			{
-				get { return AuthorField; }
+				return AuthorField;
 			}
 
 		}
@@ -68,9 +68,9 @@ namespace HomeWork_1_2
 			{
 				return this.ContentField = Content;
 			}
-			public string GetContent
+			public string GetContent(string Content)
 			{
-				get { return ContentField; }
+				return ContentField;
 			}
 
 		}
