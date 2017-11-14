@@ -17,21 +17,26 @@ namespace HomeWork_1_2
 	{
 		static void Main(string[] args)
 		{
+			// (1)
 			Console.WriteLine("Введите название книги...");
 			string Title = Console.ReadLine();
 			Console.WriteLine("Введите имя автора данной книги...");
 			string Author = Console.ReadLine();
 			Console.WriteLine("Введите содержание книги...");
 			string Content = Console.ReadLine();
+			//
 
-						
+			// Экземпляры классов Title,Author,Content в классе Book		
 			Book.Title title = new Book.Title();
 			Book.Author author = new Book.Author();
 			Book.Content content = new Book.Content();
 
+			// Передаем переменные(1) ,которые мы ввели в начале, переменным (2). 
+			// (2)
 			title.SetTitle(Title);
 			author.SetAuthor(Author);
 			content.SetContent(Content);
+			//
 
 			Console.Write("название книги - ");
 			title.Show();
