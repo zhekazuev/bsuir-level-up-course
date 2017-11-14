@@ -13,67 +13,6 @@ using System.Threading.Tasks;
 
 namespace HomeWork_1_2
 {
-
-	class Book
-	{
-		
-	}
-
-	class Title
-	{
-		private string TitleField;
-
-		public Title(string Title)
-		{
-			this.TitleField = Title;
-		}
-
-		public void Show()
-		{
-			Console.ForegroundColor = ConsoleColor.Green;
-			Console.WriteLine(TitleField);
-			Console.ResetColor(); 
-		}
-
-	}
-
-	class Author
-	{
-		private string AuthorField;
-
-		public Author(string Author)
-		{
-			this.AuthorField = Author;
-		}
-
-		public void Show()
-		{
-			Console.ForegroundColor = ConsoleColor.Red;
-			Console.WriteLine(AuthorField);
-			Console.ResetColor(); 
-		}
-
-	}
-
-	class Content
-	{
-		private string ContentField;
-
-
-		public Content(string Content)
-		{
-			this.ContentField = Content;
-		}
-
-		public void Show()
-		{
-			Console.ForegroundColor = ConsoleColor.Blue;
-			Console.WriteLine(ContentField);
-			Console.ResetColor();
-		}
-
-	}
-
 	class Program
 	{
 		static void Main(string[] args)
@@ -85,14 +24,20 @@ namespace HomeWork_1_2
 			Console.WriteLine("Введите содержание книги...");
 			string Content = Console.ReadLine();
 
-			Title title = new Title(Title);
-			Author author = new Author(Author);
-			Content content = new Content(Content);
+						
+			Book.Title title = new Book.Title();
+			Book.Author author = new Book.Author();
+			Book.Content content = new Book.Content();
 
-			title.Show();
-			author.Show();
-			content.Show();
+			title.SetTitle(Title);
+			author.SetAuthor(Author);
+			content.SetContent(Content);
 
+			Console.WriteLine("название книги - {0}", title.GetTitle(Title));
+			Console.WriteLine("имя автора данной книги - {0}", author.GetAuthor(Author));
+			Console.WriteLine("содержание книги - {0}", content.GetContent(Content));
+
+			Console.ReadKey();
 		}
 	}
 }
