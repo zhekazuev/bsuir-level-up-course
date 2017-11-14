@@ -33,9 +33,13 @@ namespace HomeWork_1_2
 			author.SetAuthor(Author);
 			content.SetContent(Content);
 
-			Console.WriteLine("название книги - {0}", title.GetTitle(Title));
-			Console.WriteLine("имя автора данной книги - {0}", author.GetAuthor(Author));
-			Console.WriteLine("содержание книги - {0}", content.GetContent(Content));
+			Console.Write("название книги - ");
+			title.Show();
+			Console.Write("имя автора данной книги - ");
+			author.Show();
+			Console.Write("содержание книги - ");
+			content.Show();
+			Console.WriteLine();
 
 			Console.ReadKey();
 		}
